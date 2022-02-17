@@ -1,7 +1,7 @@
 ## Welcome  a mi pagina
-hola mi nombre es Fernando Bautista Casado Soy alumno del centro de estudios tecnologicos industrial y de servicios numero 32 "josé vasconcelos"
+hola mi nombre es Fernando Bautista Casado  tengo 17 años y soy alumno del  CENTRO DE ESTUDIOS TECNOLOGICOS INDUSTRIAL Y DE SERVICIOS NUNMERO 32  "JOSÉ VASCONCELOS"
 me gusta la musica del género hip hop y raP ME GUSTA EL COLOR ROJO Y EL COLOR NEGRO  
-###  Mis artistas favoritos: 
+###  Mis artistas favorito:
 1.  [CARTEL DE SANTA]
 2.   [CHARLES ANS]
 3.   [SABINO]
@@ -10,27 +10,24 @@ me gusta la musica del género hip hop y raP ME GUSTA EL COLOR ROJO Y EL COLOR N
 6.   [LA SANTA GRIFA]
 7.   [MC DAVO]
 
-# Header 1
-## Header 2
-### Header 3
+### MIS JUEGOS FAVORITOS:
+1.  MINECRAFT
+2. FORTNITE 
+3. GOD OF WAR
+4. CRASH 
+5. THE LAST OF OUS
+6. OUTLAST
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FERNANDO-BAUTISTA-CASDADO/FERNANDO-BAUTISTA-CASADO.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### LOS DEPORTES QUE MAS ME AGRADAN SON: 
+1. FUTBOL
+2. LACROSSE
+3. BASQUETBOL
+4. TENIS
+###  MIS MATERIAS FAVORITAS :
+1. TEMAS DE FÍSICA
+2. TEMAS DE FILOSOFIA
+### LAS COSAS QUE ME GUSTA HACER EN M I TIEMOP LIBRE
+1. ESCUCHAR MUSICA 
+2. SALIR A CAMINAR
+3. TOMAR UNA SIESTA 
+4. JUGAR MIS VIDEOJUEGOS FAVORITOS
