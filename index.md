@@ -1,14 +1,14 @@
-## Welcome to GitHub Pages
-hola mi nombre es Fernando Bautista Casado Soay alumno del centro de estudios tecnologicos industrial y de servivcios número 32 "josé vasconcelos"
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+## Welcome  a mi pagina
+hola mi nombre es Fernando Bautista Casado Soy alumno del centro de estudios tecnologicos industrial y de servicios numero 32 "josé vasconcelos"
+me gusta la musica del género hip hop y raP ME GUSTA EL COLOR ROJO Y EL COLOR NEGRO  
+###  Mis artistas favoritos: 
+1.  [CARTEL DE SANTA]
+2.   [CHARLES ANS]
+3.   [SABINO]
+4.   [NANPA BÁSICO]
+5.   [GERA MX]
+6.   [LA SANTA GRIFA]
+7.   [MC DAVO]
 
 # Header 1
 ## Header 2
