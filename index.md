@@ -1,6 +1,5 @@
 ## Welcome to GitHub Pages
-hola mi nombre es Fernando Bautista Casado 
-You can use the [editor on GitHub](https://github.com/FERNANDO-BAUTISTA-CASDADO/FERNANDO-BAUTISTA-CASADO.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+hola mi nombre es Fernando Bautista Casado Soay alumno del centro de estudios tecnologicos industrial y de servivcios número 32 "josé vasconcelos"
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
