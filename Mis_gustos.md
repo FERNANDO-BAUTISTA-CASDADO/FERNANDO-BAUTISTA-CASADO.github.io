@@ -5,4 +5,4 @@ MIS GUSTOS EN LA COMIDA SON: LAS ENCHILADAS VERDES, CHILAQUILES ROJOS, PIZZA Y H
 MIS GUSTOS MUSICALES SON: EL HIP HOP, EL RAP, ELNORTEÑO, EL POP Y LA BACHATA 
 MIS GUSTOS EXTRAS SON LOS VIDEOJUEGOS Y LA LLUVIA
 
-[texto alternativo](https://etacanada.com.mx/wp-content/uploads/2020/02/jugador-lacrosse-830x553.jpg)
+![texto alternativo](https://etacanada.com.mx/wp-content/uploads/2020/02/jugador-lacrosse-830x553.jpg)
