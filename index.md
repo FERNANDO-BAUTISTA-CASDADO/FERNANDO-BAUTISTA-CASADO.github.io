@@ -1,4 +1,4 @@
-[MIS GUSTOS](Mis_gustos.md)  [MI EXPERIENCIA LABORAL](Mi_experiencia_laboral.md)  [MIS HABILIDADES SOACIALES](Mis_habilidades_sociales.md)  [MIS HABILIDADES TECNOLOGICAS](Mis_habilidades_tecnológicas.md)  [MIS ANIMALES PREFERIDOS](mis_animales_preferidos.md)  [MIS ARTISTAS FAVORITOS](mis_artistas_favoritos.md)
+[MIS GUSTOS](Mis_gustos.md) | [MI EXPERIENCIA LABORAL](Mi_experiencia_laboral.md) | [MIS HABILIDADES SOACIALES](Mis_habilidades_sociales.md) | [MIS HABILIDADES TECNOLOGICAS](Mis_habilidades_tecnológicas.md) | [MIS ANIMALES PREFERIDOS](mis_animales_preferidos.md) | [MIS ARTISTAS FAVORITOS](mis_artistas_favoritos.md)
 ## BIENVENIDO A MI PAGINA
 
 HOLA MI NOMBRE ES FERNANDO BAUTISTA CASADO TENGO 17 AÑOS Y SOY ESTUDIANTE DEL CENTRO DE ESTUDIOS TECNOLOGICOS INDUSTRIAL Y DE SERVICIO NUMERO 32 "JOSÉ VASCONCELOS"
