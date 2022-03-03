@@ -1,4 +1,5 @@
-## MIS ARTISTAS FAVORITOS
+
+[MIS GUSTOS](Mis_gustos.md) | [MI EXPERIENCIA LABORAL](Mi_experiencia_laboral.md) | [MIS HABILIDADES SOACIALES](Mis_habilidades_sociales.md) | [MIS HABILIDADES TECNOLOGICAS](Mis_habilidades_tecnológicas.md) | [MIS ANIMALES PREFERIDOS](mis_animales_preferidos.md) | [MIS ARTISTAS FAVORITOS](mis_artistas_favoritos.md)## MIS ARTISTAS FAVORITOS
 1. CARTEL DE SANTA
 2. CHARLES ANS
 3. NANPA BASICO
